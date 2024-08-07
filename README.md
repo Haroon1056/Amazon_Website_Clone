@@ -9,9 +9,11 @@ A e-commerce website template inspired by Amazon, built with HTML and CSS. Featu
 
 
 ## Screenshots
-
+Header
 ![Header](https://github.com/user-attachments/assets/c840cb01-6643-4095-a51b-40799680a169)
+Body
 ![Body](https://github.com/user-attachments/assets/94c1574f-2d6d-4325-82b9-f616153d4fbb)
+Footer
 ![Footer](https://github.com/user-attachments/assets/2d14838c-34ca-4562-baf3-aa2cc158600a)
 
 ## Contributing
