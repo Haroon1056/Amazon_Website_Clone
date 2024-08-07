@@ -24,4 +24,3 @@ Contributions are welcome! If you have suggestions for improvements or have foun
 ## Acknowledgements
 
  - This template is inspired by Amazon's design and structure.
- - Thanks to all the free resources and tutorials available online.
