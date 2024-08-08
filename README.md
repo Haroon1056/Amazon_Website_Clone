@@ -24,3 +24,8 @@ Contributions are welcome! If you have suggestions for improvements or have foun
 ## Acknowledgements
 
  - This template is inspired by Amazon's design and structure.
+
+
+## Authors
+
+- [@HaroonRasheed](https://github.com/Haroon1056)
